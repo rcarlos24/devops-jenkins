@@ -1,1 +1,0 @@
-print("hola estoy practicando jenkins, para ser devops")
